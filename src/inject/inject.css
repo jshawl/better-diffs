@@ -1,0 +1,14 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+#files .file{
+  display:none;
+}
+
+#files .file:target{
+  display:block;
+}
+
+
+
